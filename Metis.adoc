@@ -1,0 +1,52 @@
+== Laboratoire Metis (Μῆτις)
+Le laboratoire Μῆτις s’intéresse aux fondements de l’informatique et
+aux procédés de l’informatique appliquée, les deux axes s’alimentant
+mutuellement par la réalisation de systèmes et d’outils informatiques
+contribuant à des domaines tels que l’enseignement, l’environnement,
+le développement durable, les arts technologiques, la modélisation
+et les procédés informatiques.
+
+=== Animateur
+Le professeur Luc Lavoie a participé tout au long de sa carrière à plusieurs projets
+de recherche liés à la spécification, au développement, à l’entretien et
+à l’exploitation de systèmes d’information pour les petites et moyennes
+organisations.
+La théorie relationnelle, la temporalité et la modélisation de données sont au
+centre de ses intérêts tant en recherche qu’en enseignement.
+Il anime CoFELI, un collectif francophone de réflexion et de partage relatif à
+l’enseignement de l’informatique.
+Il s’intéresse également aux domaines de la spécification des exigences,
+de la systématisation des processus de développement,
+d’évolution, de vérification et de validation du logiciel.
+Il a participé à l’élaboration de l’architecture PARS3, à la définition de DadaGem
+et à la définition de la famille de protocoles SPEDS dans le cadre des travaux
+du Groupe de recherche interdisciplinaire en informatique de la santé de
+l’Université de Sherbrooke.
+Finalement, il anime le groupe de recherche Μῆτις qui s’intéresse plus particulièrement
+aux outils de modélisation de données temporalisées, historicisées ou relatives,
+aux langages multi-paradigmes
+et à leur intégration aux procédés de développement logiciel.
+
+luc.lavoie@usherbrooke.ca +
+https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/luc-lavoie
+
+=== Environnement
+Le laboratoire Μῆτις dispose de postes de travail regroupés dans un espace ouvert
+favorisant l’échange et la collaboration.
+Cet espace, situé à la Faculté des sciences de l’Université de Sherbrooke,
+est partagé avec les groupes de recherche GRIIS et Hora.
+
+Les projets sont pilotés selon le procédé en spirale (Boehm et Turner) afin
+de favoriser la créativité tout en permettant la maitrise progressive des
+exigences, des ressources utilisées, des jalons à respecter et de la qualité
+des produits.
+
+Parmi les outils utilisés au laboratoire, on note
+
+* Java, jUnit, JaCoCo, Gradle, IntelliJ ;
+* ANTLR, StringTemplate ;
+* SQL, PostgreSQL, psql, pgTAP, jOOQ, DataGrip ;
+* B, Event-B, Alloy ;
+* AsciiDoc, LibreOffice, Antidote ;
+* Git, GitHub, GitLab ;
+* Ubuntu, bash, macOS, zsh.

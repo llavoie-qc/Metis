@@ -1,0 +1,60 @@
+=== Projet Hypatie (Ὑπατία)
+
+La programmation multi-paradigmes consiste à décrire une solution informatique
+en utilisant le modèle (paradigme) le plus approprié (adéquat) pour chacune
+de ses parties.
+
+Le projet Hypatie s’intéresse à la définition d’environnements informatiques
+multi-paradigmes et au développement d’une machine multi-paradigmes (MMP)
+capable d’exécuter des programmes écrits dans un langage multi-paradigmes (LMP)
+fondé sur la composition de ces paradigmes.
+
+Ces paradigmes sont dérivés des théories fondatrices de l’informatique,
+telles que
+
+* la logique du premier ordre,
+* la théorie des ensembles (incluant l’arithmétique),
+* la théorie des types de Russel,
+* la théorie des automates de Turing,
+* la théorie des langages formels de Chomsky,
+* la théorie relationnelle de Codd,
+* la sémantique axiomatique de Floyd-Dijkstra-Hoare,
+* la théorie des processus séquentiels concurrents de Hoare,
+* l’algèbre des intervalles d’Allen,
+* la théorie de la temporalité de Lorentzos,
+* etc.
+
+Deux sous-projets complémentaires sont présentement en cours, Magister et Discipulus.
+
+==== Sous-projet Magister
+Magister vise à définir une première version de la MMP incluant
+la définition formelle de la machine
+(le jeu d’instructions et la façon de les organiser),
+l’établissement de la syntaxe abstraite de ses programmes
+et le développement d’un premier interprète.
+
+==== Sous-projet Discipulus
+Discipulus vise à définir un premier LMP incluant sa syntaxe concrète,
+sa sémantique (exprimée en termes de MMP), un outil de vérification
+(fondé sur les théories sous-jacentes) et un premier compilateur.
+
+==== Personnes participantes (étudiantes, stagiaires, collaboratrices, PP)
+Les PP aux sous-projets doivent avoir de bonnes bases
+
+* en logique,
+* en théorie des ensembles,
+* en programmation,
+* en structures de données,
+* en algorithmique
+
+ainsi que des notions élémentaires
+
+* en langages formels, plus particulièrement
+  - les langages rationnels (_rational languages, regular expressions_) et
+  - les langages algébriques (_context-free languages_),
+* en théorie relationnelle et
+* en sémantique axiomatique.
+
+Dans le cadre de stages, les PP pourront consolider ces bases et
+développer ainsi leurs compétences en regard des méthodes, des technologies
+et des outils en usage au laboratoire Μῆτις.

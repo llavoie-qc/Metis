@@ -1,0 +1,90 @@
+=== Projet Speira (σπεῖρα)
+
+Le développement logiciel, comme la réalisation de produits en général,
+fait appel à plusieurs procédés dont l’organisation générale
+est souvent présentée de façon séquentielle, mais qui procède plutôt, concrètement,
+de façon itérative de sorte que l’enchainement des processus qui en découlent
+forme en réalité une spirale, d’où le nom de la famille de méthodes proposées
+par Boehm et Turner.
+
+L’intégration de l’activité de la documentation aux différents procédés est souvent
+négligée, de même que l’intégration des systèmes logiques aux procédés de
+modélisation et de conception. IAR est prototype d’atelier de développement
+logiciel proposant une approche intégrée visant à faciliter l’accomplissement
+de ces deux tâches, la production des artéfacts associés, leur vérification
+et leur validation.
+
+Deux sous-projets ont été définis afin de refactoriser et compléter IAR
+afin de le passer du stade de preuve concept à celui de prototype afin
+de permettre la tenue d’expérimentation dans un contexte contrôlé, mais réaliste.
+
+==== Sous-projet IAR_Logo
+Au sein d’une équipe de développement, il est rare qu’un seul formalisme soit utilisé
+pour exprimer les modèles et, pour un même formalisme, plusieurs outils sont
+susceptibles d’être utilisés, outils ne partageant pas forcément les mêmes notations.
+
+De façon à permettre le partage de composantes entre les formalismes et le développement
+d’outils communs (dont des gabarits et des vérificateurs),
+un méta-modèle élémentaire de formalisme a donc été développé dans le cadre
+de la preuve de concept IAR.
+Ce méta-modèle doit être étendu dans le cadre du prototype.
+
+.Personnes participantes (étudiantes, stagiaires, collaboratrices, PP)
+Les PP au sous-projet IAR_Logo doivent avoir de bonnes bases
+
+* en logique,
+* en théorie des ensembles,
+* en méthodes formelles
+* en programmation,
+* en structures de données,
+* en algorithmique
+
+ainsi que des notions élémentaires
+
+* en langages formels +
+  (plus particulièrement les langages rationnels
+  [_rational languages, regular expressions_] et
+  les langages algébriques [_context-free languages_]).
+
+Dans le cadre de stages, les PP pourront consolider ces bases et
+développer ainsi leurs compétences en regard des méthodes, des technologies
+et des outils en usage au laboratoire Μῆτις.
+
+==== Sous-projet IAR_Docu
+
+Au sein d’une équipe de développement, il est rare qu’un seul outil soit utilisé
+pour la documentation.
+Les outils sont choisis en fonction de contraintes associées
+
+* aux procédés (analyse, conception, réalisation, essai, etc.) ;
+* aux lectorats (gestionnaires, utilisateurs, experts du domaine, informaticiens, etc.) ;
+* aux supports (imprimés, diaporama, texte numérisé, animation, etc.) ;
+* aux interactions avec les autres types artéfacts (textes naturels, textes formels, code, données, diagrammes, etc.) ;
+* aux plateformes (système d’exploitation, dépôts partagés, etc.) ;
+* aux licences associées ;
+* …
+
+De façon à permettre le partage de composantes entre artéfacts et le développement
+d’outils communs (dont des gabarits et des vérificateurs),
+un méta-modèle élémentaire de document a donc été développé dans le cadre
+de la preuve de concept IAR.
+Ce méta-modèle doit être étendu dans le cadre du prototype.
+
+.Personnes participantes (étudiantes, stagiaires, collaboratrices, PP)
+Les PP au sous-projet IAR_Docu doivent avoir de bonnes bases
+
+* en programmation,
+* en structures de données,
+* en algorithmique
+
+ainsi que des notions de élémentaires
+
+* en langages formels +
+  (plus particulièrement les langages rationnels
+  [_rational languages, regular expressions_] et
+  les langages algébriques [_context-free languages_]),
+* en spécification et modélisation de traitement de texte.
+
+Dans le cadre de stages, les PP pourront consolider ces bases et
+développer ainsi leurs compétences en regard des méthodes, des technologies
+et des outils en usage au laboratoire Μῆτις.

@@ -1,0 +1,9 @@
+= Présentation du laboratoire Μῆτις
+
+[introduction]
+== Introduction
+include::Metis.adoc[leveloffset=-1,lines=2..-1]
+
+include::Speira.adoc[leveloffset=-1]
+
+include::Hypathie.adoc[leveloffset=-1]
