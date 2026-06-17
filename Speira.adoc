@@ -41,10 +41,9 @@ Les PP au sous-projet IAR_Logo doivent avoir de bonnes bases
 
 ainsi que des notions élémentaires
 
-* en langages formels +
-  (plus particulièrement les langages rationnels
-  [_rational languages, regular expressions_] et
-  les langages algébriques [_context-free languages_]).
+* en langages formels, plus particulièrement
+  - les langages rationnels (_rational languages, regular expressions_) et
+  - les langages algébriques (_context-free languages_).
 
 Dans le cadre de stages, les PP pourront consolider ces bases et
 développer ainsi leurs compétences en regard des méthodes, des technologies
